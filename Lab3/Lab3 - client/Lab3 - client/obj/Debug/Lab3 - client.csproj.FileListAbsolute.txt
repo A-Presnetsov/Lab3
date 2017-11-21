@@ -1,0 +1,39 @@
+c:\users\nick\documents\visual studio 2017\Projects\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.exe.config
+c:\users\nick\documents\visual studio 2017\Projects\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.exe
+c:\users\nick\documents\visual studio 2017\Projects\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.pdb
+c:\users\nick\documents\visual studio 2017\Projects\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.exe
+c:\users\nick\documents\visual studio 2017\Projects\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.pdb
+C:\Users\Nick\Documents\Labs\Lab-3-master\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.exe.config
+C:\Users\Nick\Documents\Labs\Lab-3-master\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.exe
+C:\Users\Nick\Documents\Labs\Lab-3-master\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.pdb
+C:\Users\Nick\Documents\Labs\Lab-3-master\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\Labs\Lab-3-master\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.exe
+C:\Users\Nick\Documents\Labs\Lab-3-master\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.pdb
+C:\Andrew\учеба\apis\мое\Lab-3-master\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.exe.config
+C:\Andrew\учеба\apis\мое\Lab-3-master\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.exe
+C:\Andrew\учеба\apis\мое\Lab-3-master\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.pdb
+C:\Andrew\учеба\apis\мое\Lab-3-master\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.csprojResolveAssemblyReference.cache
+C:\Andrew\учеба\apis\мое\Lab-3-master\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.csproj.CoreCompileInputs.cache
+C:\Andrew\учеба\apis\мое\Lab-3-master\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.exe
+C:\Andrew\учеба\apis\мое\Lab-3-master\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.pdb
+C:\Andrew\учеба\apis\мое\готовое\Lab-3\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.exe.config
+C:\Andrew\учеба\apis\мое\готовое\Lab-3\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.exe
+C:\Andrew\учеба\apis\мое\готовое\Lab-3\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.pdb
+C:\Andrew\учеба\apis\мое\готовое\Lab-3\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.csprojResolveAssemblyReference.cache
+C:\Andrew\учеба\apis\мое\готовое\Lab-3\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.csproj.CoreCompileInputs.cache
+C:\Andrew\учеба\apis\мое\готовое\Lab-3\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.exe
+C:\Andrew\учеба\apis\мое\готовое\Lab-3\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.pdb
+C:\Users\Nick\Documents\Lab3 - client\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.exe.config
+C:\Users\Nick\Documents\Lab3 - client\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.exe
+C:\Users\Nick\Documents\Lab3 - client\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.pdb
+C:\Users\Nick\Documents\Lab3 - client\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Lab3 - client\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\Lab3 - client\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.exe
+C:\Users\Nick\Documents\Lab3 - client\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.pdb
+C:\Andrew\учеба\apis\доделать\Lab3\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.exe.config
+C:\Andrew\учеба\apis\доделать\Lab3\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.exe
+C:\Andrew\учеба\apis\доделать\Lab3\Lab3 - client\Lab3 - client\bin\Debug\Lab3 - client.pdb
+C:\Andrew\учеба\apis\доделать\Lab3\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.csprojResolveAssemblyReference.cache
+C:\Andrew\учеба\apis\доделать\Lab3\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.csproj.CoreCompileInputs.cache
+C:\Andrew\учеба\apis\доделать\Lab3\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.exe
+C:\Andrew\учеба\apis\доделать\Lab3\Lab3 - client\Lab3 - client\obj\Debug\Lab3 - client.pdb
